@@ -1,0 +1,6 @@
+f = lambda c: int((9/5) * c + 32)
+r = lambda c: int(0.8 * c)
+
+print(f(100))
+print(r(80))
+print(f(0))
